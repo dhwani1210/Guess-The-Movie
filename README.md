@@ -1,4 +1,4 @@
-Hangman.py
+GUESS THE MOVIE
 
 Purpose:
 
